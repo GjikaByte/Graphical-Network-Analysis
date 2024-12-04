@@ -74,6 +74,7 @@ $\hat{\Theta} = \underset{\Theta}{\text{argmin}} \left( \text{trace}(\Sigma \The
 - **Dimensionality Reduction**:  
   The **Multi-Dimensional Scaling (MDS)** technique reduced the complexity of the high-dimensional relationships, offering an intuitive 2D visualization. This made it easier to identify and interpret stock clusters, providing insight into how stocks are grouped based on similar financial behaviors.
 
- ![Graphical Lasso](figures/Picture 1.png)
+
+ ![Graphical Lasso](files/Picture1.png)
 
 ---
